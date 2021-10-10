@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**mohammadrezasolo69/mohammadrezasolo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### سلام به همه 👋
 
 Here are some ideas to get you started:
 
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsarmx&layout=compact&theme=radical)](https://github.com/parsarmx/github-readme-stats)
