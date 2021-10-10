@@ -1,4 +1,5 @@
-###👋 Hi guys 👋
+👋 Hi guys 👋
+
 
 
 - 😵 I’m currently learning about || Django ||.
